@@ -1,0 +1,3 @@
+.propileImg:hover + .userName {
+  display: block;
+}
